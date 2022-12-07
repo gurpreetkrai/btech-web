@@ -1,9 +1,9 @@
 {
-	"CollegName":"PCTE",
-	"Year":1999,
-	"Address":"Jhande",
-	"Courses Offered":[
-				{"PG":"MCA"},
-				{"UG":"BCA"}
+"CollegName":"PCTE",
+"Year":1999,
+"Address":"Jhande",
+"Courses Offered":[
+{"PG":"MCA"},
+{"UG":"BCA"}
 						]
 }
