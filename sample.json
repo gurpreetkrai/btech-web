@@ -1,9 +1,9 @@
 {
-	"FirstName":"Gurpreet",
-	"Age":32,
-	"Address":"Gurdev Nagar,Ludhiana",
-	"Job Experience":[
-				{"first":"Gtech"},
-				{"second":"PCTE"}
+	"CollegName":"PCTE",
+	"Year":1999,
+	"Address":"Jhande",
+	"Courses Offered":[
+				{"PG":"MCA"},
+				{"UG":"BCA"}
 						]
 }

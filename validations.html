@@ -1,0 +1,28 @@
+<html>
+<head>
+	<script>
+		function check()
+		{
+			var name=document.forms["register"]["fname"].value;
+			if(name!="")
+			{
+				alert("data filled");
+				return true;
+			}
+			else
+			{
+				document.getElementById("fname").style.background="yellow";
+				return false;
+			}
+
+		}
+
+	</script>
+	</head>
+	<body>
+		<form method="get" name="register" onsubmit="return check()">
+			Name : <input type="text" name="fname" id="fname">
+			<input type="submit" name="submit">
+		</form>
+	</body>
+</html>
