@@ -1,0 +1,9 @@
+{
+	"FirstName":"Gurpreet",
+	"Age":32,
+	"Address":"Gurdev Nagar,Ludhiana",
+	"Job Experience":[
+				{"first":"Gtech"},
+				{"second":"PCTE"}
+						]
+}
